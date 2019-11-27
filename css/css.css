@@ -1,0 +1,59 @@
+* {
+   
+    box-sizing: border-box;
+}
+.allCont{
+
+	
+}
+#about, #menue{
+	
+
+	
+} 
+.imgAbout{
+	padding: 50px;
+	
+
+	
+}
+.contAbout{
+	padding: 80px;
+	
+
+}
+.imgMenue{
+	padding: 50px;
+	
+
+}
+.contMenue{
+	padding: 80px;
+	
+
+}
+.End{
+	border: 5px;
+}
+.contEnd{
+	text-align: center; 
+}
+h1,h5{
+	text-align: center;
+}
+
+img{
+	margin: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*  ---------------------------------------------------------------------------- */
